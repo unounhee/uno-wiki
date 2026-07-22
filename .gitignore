@@ -1,0 +1,6 @@
+# Obsidian 로컬 설정 (기기별 설정이라 동기화하지 않음)
+.obsidian/
+
+# OS 잡파일
+Thumbs.db
+.DS_Store
